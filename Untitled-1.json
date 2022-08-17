@@ -1,27 +1,25 @@
 {
-    "name": "DogeDust Token",
-    "keywords": [
-        "DogeChain",
-        "defi",
-        "Doge",
-        "bridge"
-    ],
-    "version": {
-        "major": 1,
-        "minor": 0,
-        "patch": 0
+  "name": "DogeDust",
+  "keywords": [
+    "DogeChain",
+    "defi",
+    "Doge",
+    "bridge"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 2000,
+      "address": "0x2BE0096B24343549E34224aa9aa297E99961023D",
+      "decimals": 18,
+      "name": "DogeShrek",
+      "symbol": "DogeShrek",
+      "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/dogeShrek.png"
     },
-    "tokens": [
-        {
-            "chainId": 2000,
-            "address": "0x7Da7A408e4095e14c21097aA5Ff79CB0427a6d40",
-            "decimals": 18,
-            "name": "DogeDust",
-            "symbol": "DDUST",
-        }
-        
-        
-
-    ],
-    "timestamp": "2022-08-10T12:00:00+00:00"
+  ],
+  "timestamp": "2022-08-10T12:00:00+00:00"
 }
