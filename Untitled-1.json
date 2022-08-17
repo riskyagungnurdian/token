@@ -28,6 +28,13 @@
     },
     {
       "chainId": 2000,
+      "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+      "decimals": 18,
+      "name": "Yodeswap",
+      "symbol": "Yodeswap"
+    },
+    {
+      "chainId": 2000,
       "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
       "decimals": 18,
       "name": "Wrapped Doge",
