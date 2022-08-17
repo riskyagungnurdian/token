@@ -1,6 +1,5 @@
 {
-  "name": "DogeShrek Tokens",
-  "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/dogeShrek.png",
+  "name": "DogeDust Tokens",
   "keywords": [
     "DogeChain",
     "defi",
@@ -15,11 +14,10 @@
   "tokens": [
     {
       "chainId": 2000,
-      "address": "0x2BE0096B24343549E34224aa9aa297E99961023D",
+      "address": "0x7Da7A408e4095e14c21097aA5Ff79CB0427a6d40",
       "decimals": 18,
-      "name": "DogeShrek",
-      "symbol": "DogeShrek",
-      "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/dogeShrek.png"
+      "name": "DogeDust",
+      "symbol": "DogeDust"
     },
     {
       "chainId": 2000,
