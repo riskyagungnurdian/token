@@ -66,14 +66,6 @@
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/wbtc.png"
-    },
-    {
-      "chainId": 2000,
-      "address": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
-      "decimals": 18,
-      "name": "Doge Eat Doge",
-      "symbol": "OMNOM",
-      "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/addresses/0xe3fcA919883950c5cD468156392a6477Ff5d18de/logo.png"
     }
   ],
   "timestamp": "2022-08-10T12:00:00+00:00"
