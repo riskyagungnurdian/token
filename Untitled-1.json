@@ -21,6 +21,13 @@
     },
     {
       "chainId": 2000,
+      "address": "0x2BE0096B24343549E34224aa9aa297E99961023D",
+      "decimals": 18,
+      "name": "DogeShrek",
+      "symbol": "DogeShrek"
+    },
+    {
+      "chainId": 2000,
       "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
       "decimals": 18,
       "name": "Wrapped Doge",
